@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "595012399961",
+    "firebase_url": "https://trafficlightnodemcu-default-rtdb.firebaseio.com",
+    "project_id": "trafficlightnodemcu",
+    "storage_bucket": "trafficlightnodemcu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595012399961:android:727131df0e8abb74b15248",
+        "android_client_info": {
+          "package_name": "com.hareshnayak.green_speed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595012399961-122n8rcp4vr1nfusbenddpenj9k5l5f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvaN2KrD_kVsoho4mnHR89NJn3b1p2xJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595012399961-122n8rcp4vr1nfusbenddpenj9k5l5f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

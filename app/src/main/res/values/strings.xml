@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Green Speed</string>
+    <string name="speed">0.0 cm/s</string>
+    <string name="dist">0 cm</string>
+    <string name="current_speed">Current Speed</string>
+    <string name="distance">Distance Left</string>
+    <string name="reqd_speed">Required Speed</string>
+    <string name="red_light">Red</string>
+    <string name = "secs">secs</string>
+    <string name="cm_s">cm/s</string>
+    <string name="dist_unit">cm</string>
+    <string name="yellow_light">Yellow</string>
+    <string name="green_light">Green</string>
+    <string name="duration_green">d</string>
+    <string name="duration_red">d</string>
+    <string name="duration_yellow">d</string>
+</resources>
